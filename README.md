@@ -3,16 +3,14 @@
 		<img src="https://cloud.githubusercontent.com/assets/7629661/20073135/4e3db2c2-a52b-11e6-85e1-661a8212045a.gif" width="456" alt="gitmoji">
 	</a>
 </p>
-<p align="center">
-	<a href="https://github.com/carloscuesta/gitmoji/actions?query=workflow%3ACI+branch%3Amaster">
-		<img src="https://img.shields.io/github/actions/workflow/status/carloscuesta/gitmoji/ci.yml?branch=master&style=flat-square"
-			 alt="Build Status">
-	</a>
-	<a href="https://gitmoji.dev">
-		<img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-			 alt="Gitmoji">
-	</a>
-</p>
+
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/actions/workflow/status/carloscuesta/gitmoji/ci.yml?branch=master&style=flat-square)](https://github.com/carloscuesta/gitmoji/actions?query=workflow%3ACI+branch%3Amaster)
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
+
+</div>
+
 
 ## About
 
