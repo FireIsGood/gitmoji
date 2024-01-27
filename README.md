@@ -48,13 +48,12 @@ Contributing to gitmoji is a piece of :cake:, read the [contributing guidelines]
 
 Are you using Gitmoji on your project? Set the Gitmoji badge on top of your readme using this code:
 
-```html
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
+```md
+<div align="center">
+
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)](https://gitmoji.dev)
+
+</div>
 ```
 
 ## License
